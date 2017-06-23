@@ -1,17 +1,17 @@
 {
-  "name": "Elijah Manor",
+  "name": "Dustin Scherer",
   "priorities" : [
-    "Christian", "Family", "Work"
+    "Family", "Mountain Biking", "Making the internet a better place"
   ],
   "work" : [
-    "@leankit", "@eggheadio", "@pluralsight"
+    "@cpanel", "@lopeznegrete", "@lasertweets"
   ],
-  "twitter": "@elijahmanor",
+  "twitter": "@dustinscherer",
   "tech" : [
-    "HTML", "CSS", "JavaScript",
-    "React", "jQuery"
+    "Angular", "Perl", "JavaScript", "Less"
+    "PHP", "HTML", "jQuery", "MySQL"
   ],
   "titles" : [
-    "Microsoft MVP"
+    "The Original Webmaster .... Spiderman"
   ]
 }

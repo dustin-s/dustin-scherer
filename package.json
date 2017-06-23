@@ -1,22 +1,22 @@
 {
-  "name": "elijahmanor",
-  "version": "1.1.0",
-  "description": "Contact Information about Elijah Manor",
+  "name": "dustin-scherer",
+  "version": "1.0.0",
+  "description": "The Node Business Card of Dustin Scherer",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat me.json; say 'Elijah Manor says Hello'"
+    "postinstall": "cat me.json; say 'Hello from Dustin Scherer'"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elijahmanor/elijahmanor"
+    "url": "https://github.com/dustin-s/dustin-scherer"
   },
   "keywords": [
     "person",
     "contact"
   ],
-  "author": "Elijah Manor",
+  "author": "Dustin Scherer",
   "license": "MIT"
 }
