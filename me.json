@@ -1,17 +1,23 @@
-{
-  "name": "Dustin Scherer",
-  "priorities" : [
-    "Family", "Mountain Biking", "Making the internet a better place"
-  ],
-  "work" : [
-    "@cpanel", "@lopeznegrete", "@lasertweets"
-  ],
-  "twitter": "@dustinscherer",
-  "tech" : [
-    "Angular", "Perl", "JavaScript", "Less"
-    "PHP", "HTML", "jQuery", "MySQL"
-  ],
-  "titles" : [
-    "The Original Webmaster .... Spiderman"
-  ]
+{  
+    "name":"Dustin Scherer",
+    "priorities":[  
+        "Family", "Mountain Biking", "Making the internet a better place"
+    ],
+    "work":[  
+        "@cpanel", "@lopeznegrete", "@lasertweets"
+    ],
+    "twitter":"@dustinscherer",
+    "tech":[  
+        "angular", "perl", "javascript", "php", "jquery", "ember.js", "python",
+        "sass", "bootstrap", "flexbox", "photoshop", "illustrator", "git",
+        "marketing", "linux", "ux", "ui", "accessibility"
+    ],
+    "deprecated_skills":[  
+        "actionscript", "lingo"
+    ],
+    "dependancies": "caffeine",
+    "dependants": {"kids":4, "dogs":3, "cats":2 },
+    "titles":[  
+        "UI Developer @ cPanel", "The Original Webmaster .... Spiderman"
+    ]
 }
