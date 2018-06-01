@@ -8,7 +8,7 @@
     ],
     "twitter":"@dustinscherer",
     "tech":[  
-        "angular", "perl", "javascript", "php", "jquery", "ember.js", "python",
+        "angular", "angularjs", "perl", "javascript", "php", "jquery", "ember.js", "python",
         "sass", "bootstrap", "flexbox", "photoshop", "illustrator", "git",
         "marketing", "linux", "ux", "ui", "accessibility"
     ],
@@ -16,7 +16,7 @@
         "actionscript", "lingo"
     ],
     "dependancies": "caffeine",
-    "dependants": {"kids":4, "dogs":3, "cats":2 },
+    "dependants": {"kids":4, "dogs":2, "cats":2 },
     "titles":[  
         "UI Developer @ cPanel", "The Original Webmaster .... Spiderman"
     ]
